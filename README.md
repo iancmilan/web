@@ -1,7 +1,5 @@
 <div align="center">
- 
-<img alt="Level" title="Level" src="https://i.imgur.com/IlHyiOl.png">
- 
+
 ![React] ![Next.js] ![styled-components] ![Typescript]
 
 </div>
